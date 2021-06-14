@@ -1,0 +1,13 @@
+.full-line {
+    display: flex;
+}
+
+.container {
+    border: 1px black solid;
+    padding: 10px;
+}
+
+div {
+    border: 1px black solid;
+    padding: 10px;
+}

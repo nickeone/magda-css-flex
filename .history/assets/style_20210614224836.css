@@ -1,0 +1,9 @@
+.full-line {
+    display: flex;
+}
+
+
+div {
+    border: 1px black solid;
+    padding: 10px;
+}
